@@ -6,10 +6,10 @@ libs contain JSON, OSMDROID Android (Android emulator) packages
 
 src/ca/ubc/cs/cpsc210/translink contains parsers and project code
 
-![stopubc](https://user-images.githubusercontent.com/16784008/212428396-d8ae452d-abb7-4041-8dbc-fffafd20aca1.png)
-![stopubslist](https://user-images.githubusercontent.com/16784008/212428434-385114d4-e8ca-4bd0-88e9-cac79fbf071f.png)
+![stopubc](https://user-images.githubusercontent.com/16784008/212428396-d8ae452d-abb7-4041-8dbc-fffafd20aca1.png | width=250)
+![stopubslist](https://user-images.githubusercontent.com/16784008/212428434-385114d4-e8ca-4bd0-88e9-cac79fbf071f.png =250x250)
 
 
-![stop16th](https://user-images.githubusercontent.com/16784008/212428364-dc9d3d3a-1e5e-4c20-8c32-c09a8656d60b.png)
-![stop16thlist](https://user-images.githubusercontent.com/16784008/212428450-fc32c595-67ae-4148-8501-9ea80b75df15.png)
-![tranlinkperm](https://user-images.githubusercontent.com/16784008/212428519-9e85e73f-09c2-48e4-b4e2-03e6b5a39033.png)
+![stop16th](https://user-images.githubusercontent.com/16784008/212428364-dc9d3d3a-1e5e-4c20-8c32-c09a8656d60b.png =250x250)
+![stop16thlist](https://user-images.githubusercontent.com/16784008/212428450-fc32c595-67ae-4148-8501-9ea80b75df15.png =250x250)
+![tranlinkperm](https://user-images.githubusercontent.com/16784008/212428519-9e85e73f-09c2-48e4-b4e2-03e6b5a39033.png =250x250)
